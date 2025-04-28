@@ -49,3 +49,18 @@ body {
 #app button:hover {
     background-color: #0d4bc6;
 }
+
+li {
+    background-color: #fff;
+    list-style: none;
+    border-radius: 5px;
+    list-style: decimal;
+    font-size: 1.3rem;
+    margin: 20px;
+    position: relative;
+    left: 18px;
+    font-weight: 300;
+    letter-spacing: 1.2px;
+    padding: 10px;
+    transition: all 0.3s ease-in-out;
+}
